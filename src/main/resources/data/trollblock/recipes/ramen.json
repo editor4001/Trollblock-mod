@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "trollblock:pasta"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "trollblock:ramen",
+    "count": 1
+  }
+}
