@@ -1,40 +1,70 @@
-# TrollBlock
+# 🧱 TrollBlock Mod
 
-A Minecraft Forge 1.20.1 mod that adds blocks… not very nice.  
-Each block or item is designed to **troll**, disrupt, or trap players with unexpected mechanics.
-
-This mod was created to **learn modding**
+Un mod Minecraft Java qui ajoute de nouveaux blocs, items et mécaniques uniques.
 
 ---
 
-## Features
+## 🌐 Wiki officiel
 
-### Dirty Effect
+Toutes les informations détaillées (crafts, blocs, items, etc.) sont disponibles ici :
 
-Advanced negative effect:
-
-* Slows the player
-* Reduces luck
-* Removes invisibility
-* Prevents clean gameplay
+👉 https://trollblock-wiki.vercel.app/
 
 ---
 
-## License
+## ✨ Contenu du mod
 
-Free to use  
-Forbidden to modify  
-Credit appreciated
+Le mod ajoute notamment :
 
----
-
-## Author
-
-Created by Betot
+- 🧪 Nouveaux items (ex: Electronic Chip, Steel, Wire…)
+- 🍜 Food custom (Ramen, Pasta…)
+- ⚙️ Composants techniques (Transmitter, Energy Tablet…)
+- 🧱 Blocs et ressources personnalisées
+- 🔥 Systèmes de crafting spécifiques
 
 ---
 
-## Notes
+## 📸 Crafting
 
-This mod is in active development.  
-Mechanics may change. The mod was created to learn modding
+Chaque item possède sa propre recette de craft, visible sur le wiki officiel.
+
+---
+
+## 🛠️ Installation
+
+1. Installer **Minecraft Java Edition**
+2. Installer **Forge / Fabric (selon ton mod)**
+3. Télécharger la dernière version du mod
+4. Placer le `.jar` dans le dossier `mods`
+5. Lancer le jeu
+
+---
+
+## 📁 Structure du projet
+
+- `/src` → code source du mod
+- `/assets` → textures, modèles, ressources
+- `/data` → recettes et données
+- `/wiki` → documentation (site externe)
+
+---
+
+## 🚀 Objectif du projet
+
+Ce mod est un projet personnel pour apprendre :
+- Java
+- Développement Minecraft
+- Systèmes de gameplay
+- Création de moteurs et mécaniques personnalisées
+
+---
+
+## ⚡ Auteur
+
+Développé par **Betot** 😄
+
+---
+
+## 📜 Licence
+
+Projet personnel – usage libre pour apprentissage.
