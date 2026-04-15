@@ -1,70 +1,82 @@
 # 🧱 TrollBlock Mod
 
-Un mod Minecraft Java qui ajoute de nouveaux blocs, items et mécaniques uniques.
+![Minecraft](https://img.shields.io/badge/Minecraft-Mod-green?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-17+-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Development-blue?style=for-the-badge)
 
 ---
 
 ## 🌐 Wiki officiel
 
-Toutes les informations détaillées (crafts, blocs, items, etc.) sont disponibles ici :
+📖 Toutes les infos (crafts, blocs, items, mécaniques) :
 
 👉 https://trollblock-wiki.vercel.app/
 
 ---
 
-## ✨ Contenu du mod
+## ✨ À propos du mod
 
-Le mod ajoute notamment :
+**TrollBlock Mod** est un mod Minecraft Java ajoutant du contenu custom et des mécaniques originales :
 
-- 🧪 Nouveaux items (ex: Electronic Chip, Steel, Wire…)
-- 🍜 Food custom (Ramen, Pasta…)
-- ⚙️ Composants techniques (Transmitter, Energy Tablet…)
-- 🧱 Blocs et ressources personnalisées
-- 🔥 Systèmes de crafting spécifiques
-
----
-
-## 📸 Crafting
-
-Chaque item possède sa propre recette de craft, visible sur le wiki officiel.
+- 🧪 Items techniques (chip, wire, transmitter…)
+- ⚙️ Systèmes électriques et composants
+- 🍜 Food custom (ramen, pasta…)
+- 🧱 Nouveaux blocs et ressources
+- 🔥 Crafts personnalisés uniques
 
 ---
 
-## 🛠️ Installation
+## 📸 Crafts & recettes
 
-1. Installer **Minecraft Java Edition**
-2. Installer **Forge / Fabric (selon ton mod)**
-3. Télécharger la dernière version du mod
-4. Placer le `.jar` dans le dossier `mods`
-5. Lancer le jeu
+Chaque item possède sa propre recette détaillée sur le wiki :
+
+👉 https://trollblock-wiki.vercel.app/
 
 ---
 
-## 📁 Structure du projet
+## 🚀 Installation
 
-- `/src` → code source du mod
-- `/assets` → textures, modèles, ressources
-- `/data` → recettes et données
-- `/wiki` → documentation (site externe)
+1. Installer Minecraft Java Edition
+2. Installer Forge ou Fabric (selon version du mod)
+3. Télécharger le `.jar` du mod
+4. Mettre le fichier dans le dossier : mods
+5. Lancer le jeu 🎮
 
 ---
 
-## 🚀 Objectif du projet
+## 🧠 Objectif du projet
 
-Ce mod est un projet personnel pour apprendre :
-- Java
-- Développement Minecraft
-- Systèmes de gameplay
-- Création de moteurs et mécaniques personnalisées
+Ce mod est un projet d’apprentissage pour :
+
+- Java avancé
+- Minecraft modding
+- Systèmes de gameplay custom
+- Logique de moteur (MadeOf engine experiments 👀)
+
+---
+
+## 🧱 Exemple de contenu
+
+- Electronic Chip ⚡
+- Steel 🪨
+- Energy Tablet 🔋
+- Transmitter 📡
+- Wire 🔌
+
+---
+
+## 👨‍💻 Développement
+
+Projet entièrement développé en Java avec système custom basé sur apprentissage et expérimentation.
 
 ---
 
 ## ⚡ Auteur
 
-Développé par **Betot** 😄
+Développé par **Betot 😄**
 
 ---
 
 ## 📜 Licence
 
-Projet personnel – usage libre pour apprentissage.
+Projet personnel – libre pour usage éducatif.
