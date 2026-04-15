@@ -27,9 +27,16 @@ public class ModCreativeModTabs {
                 pOutput.accept(ModItems.DIESEL_CANDY.get());
                 pOutput.accept((ModItems.PASTA.get()));
                 pOutput.accept(ModItems.PLASTIC_CHEET.get());
+                pOutput.accept((ModItems.SCREWDRIVER.get()));
+                pOutput.accept(ModItems.ENERGY_TABLET.get());
+                pOutput.accept(ModItems.ELECTRONIC_CHIP.get());
+                pOutput.accept((ModItems.WIRE.get()));
 
                 pOutput.accept(ModBlocks.SOIL.get());
                 pOutput.accept(ModBlocks.QUICK_SAND.get());
+                pOutput.accept(ModBlocks.TRANSMITTER.get());
+                pOutput.accept(ModBlocks.CHARGER.get());
+                pOutput.accept((ModBlocks.STEEL.get()));
             })
 
             .build()

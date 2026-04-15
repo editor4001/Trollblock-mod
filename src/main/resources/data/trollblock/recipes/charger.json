@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sgs",
+    "gcg",
+    "sgs"
+  ],
+  "key": {
+    "s": {
+      "item": "trollblock:steel"
+    },
+    "g": {
+      "item": "minecraft:glass"
+    },
+    "c": {
+      "item": "trollblock:electronic_chip"
+    }
+  },
+  "result": {
+    "item": "trollblock:charger",
+    "count": 1
+  }
+}

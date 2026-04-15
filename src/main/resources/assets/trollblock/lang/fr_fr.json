@@ -5,5 +5,12 @@
   "block.trollblock.quick_sand": "Sable mouvant",
   "effect.trollblock.dirty": "Sale",
   "item.trollblock.pasta": "Pâte",
-  "item.trollblock.plastic_cheet": "Feuille de plastique"
+  "item.trollblock.plastic_cheet": "Feuille de plastique",
+  "block.trollblock.transmitter": "Transmiteur",
+  "item.trollblock.screwdriver": "Tourne vis",
+  "item.trollblock.energy_tablet": "Tablet d'énergie",
+  "block.trollblock.charger": "Chargeur",
+  "item.trollblock.electronic_chip": "Puce électronique",
+  "item.trollblock.wire": "Cable",
+  "block.trollblock.steel": "Acier"
 }

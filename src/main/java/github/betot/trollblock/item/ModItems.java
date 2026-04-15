@@ -1,6 +1,7 @@
 package github.betot.trollblock.item;
 
 import github.betot.trollblock.item.custom.DieselCandyItem;
+import github.betot.trollblock.item.custom.ScrewdriverItem;
 import net.minecraft.client.renderer.item.ItemProperties;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -25,6 +26,18 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
 
     public static final RegistryObject<Item> PLASTIC_CHEET = ITEMS.register("plastic_cheet",
+            () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> SCREWDRIVER = ITEMS.register("screwdriver",
+            () -> new ScrewdriverItem(new Item.Properties()));
+
+    public static final RegistryObject<Item> ENERGY_TABLET = ITEMS.register("energy_tablet",
+            () -> new Item(new Item.Properties().durability(100)));
+
+    public static final RegistryObject<Item> ELECTRONIC_CHIP = ITEMS.register("electronic_chip",
+            () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> WIRE = ITEMS.register("wire",
             () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {

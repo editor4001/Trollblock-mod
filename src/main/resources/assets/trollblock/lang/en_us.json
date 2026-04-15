@@ -5,5 +5,12 @@
   "block.trollblock.quick_sand": "Quick sand",
   "effect.trollblock.dirty": "Dirty",
   "item.trollblock.pasta": "Pasta",
-  "item.trollblock.plastic_cheet": "Plastic cheet"
+  "item.trollblock.plastic_cheet": "Plastic cheet",
+  "block.trollblock.transmitter": "Transmitter",
+  "item.trollblock.screwdriver": "Screwdriver",
+  "item.trollblock.energy_tablet": "Energy tablet",
+  "block.trollblock.charger": "Charger",
+  "item.trollblock.electronic_chip": "Electronic chip",
+  "item.trollblock.wire": "Wire",
+  "block.trollblock.steel": "Steel"
 }

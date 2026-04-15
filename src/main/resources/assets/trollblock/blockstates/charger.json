@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "glowstone_amount=0": {
+      "model": "trollblock:block/charger_0"
+    },
+    "glowstone_amount=1": {
+      "model": "trollblock:block/charger_1"
+    },
+    "glowstone_amount=2": {
+      "model": "trollblock:block/charger_2"
+    },
+    "glowstone_amount=3": {
+      "model": "trollblock:block/charger_3"
+    },
+    "glowstone_amount=4": {
+      "model": "trollblock:block/charger_4"
+    }
+  }
+}

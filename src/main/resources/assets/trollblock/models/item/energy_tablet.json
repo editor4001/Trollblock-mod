@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "trollblock:item/energy_tablet"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "damage": 0.99
+      },
+      "model": "trollblock:item/energy_tablet_empty"
+    }
+  ]
+}

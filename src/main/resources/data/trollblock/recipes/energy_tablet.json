@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "wiw",
+    "ici",
+    "wiw"
+  ],
+  "key": {
+    "w": {
+      "item": "trollblock:wire"
+    },
+    "i": {
+      "item": "minecraft:iron_nugget"
+    },
+    "c": {
+      "item": "trollblock:electronic_chip"
+    }
+  },
+  "result": {
+    "item": "trollblock:energy_tablet",
+    "count": 1
+  }
+}

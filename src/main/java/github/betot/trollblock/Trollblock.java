@@ -2,6 +2,7 @@ package github.betot.trollblock;
 
 import com.mojang.logging.LogUtils;
 import github.betot.trollblock.block.ModBlocks;
+import github.betot.trollblock.blockentity.ModBlockEntities;
 import github.betot.trollblock.effect.ModEffects;
 import github.betot.trollblock.item.ModCreativeModTabs;
 import github.betot.trollblock.item.ModItems;
@@ -53,6 +54,7 @@ public class Trollblock {
         ModBlocks.register(modEventBus);
         ModCreativeModTabs.register(modEventBus);
         ModEffects.register(modEventBus);
+        ModBlockEntities.BLOCK_ENTITIES.register(modEventBus);
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);

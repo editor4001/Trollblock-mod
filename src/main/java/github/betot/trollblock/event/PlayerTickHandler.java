@@ -2,7 +2,9 @@ package github.betot.trollblock.event;
 
 import github.betot.trollblock.effect.ModEffects;
 import github.betot.trollblock.entity.DirtyEntity;
+import net.minecraft.client.Minecraft;
 import net.minecraft.network.chat.Component;
+import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.effect.MobEffects;
 import net.minecraft.world.entity.Entity;
@@ -18,7 +20,6 @@ import net.minecraftforge.fml.common.Mod;
 public class PlayerTickHandler {
 
     public static boolean message_showed = false;
-
     @SubscribeEvent
     public static void onPlayerTick(TickEvent.PlayerTickEvent event) {
         if (event.phase != TickEvent.Phase.END) return;

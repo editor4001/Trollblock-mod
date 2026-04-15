@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "gww",
+    "ppp"
+  ],
+  "key": {
+    "p": {
+      "item": "trollblock:plastic_cheet"
+    },
+    "g": {
+      "item": "minecraft:gold_nugget"
+    },
+    "w": {
+      "item": "trollblock:wire"
+    }
+  },
+  "result": {
+    "item": "trollblock:electronic_chip",
+    "count": 1
+  }
+}

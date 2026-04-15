@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "is_receiver=true": {
+      "model": "trollblock:block/transmitter_receiver"
+    },
+    "is_receiver=false":{
+      "model": "trollblock:block/transmitter_sender"
+    }
+  }
+}
